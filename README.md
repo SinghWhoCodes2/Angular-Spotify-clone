@@ -1,4 +1,8 @@
-# Web422A4
+# Angular Spotify Clone 
+
+Live Demo https://spotifyapp-pi.vercel.app/login
+
+use Demo username : JA  and Password : JA
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
